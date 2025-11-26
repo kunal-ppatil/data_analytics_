@@ -225,10 +225,3 @@ Retail-Customer-Churn-Analysis/
 - **Streamlit Enhancements**: Add filters, drill-downs, and segmented views for better interactivity.
 
 ---
-
-## Contact
-
-- **Your Name**: Sanjay Krishna MV  
-- **GitHub**: https://github.com/SANJAY-KRISHNA-MV  
-- **LinkedIn**: https://www.linkedin.com/in/sanjay-krishna-mv/
-- **Email**: sanjaymvkrishna@gmail.com
