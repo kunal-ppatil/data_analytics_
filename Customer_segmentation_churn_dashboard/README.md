@@ -98,7 +98,7 @@ This project is licensed under the **MIT License**.
 
 ## 🙋‍♀️ Author
 
-**Priyanka Malavade**
+**Kunal Patil**
 
 ---
 
